@@ -1,0 +1,48 @@
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\bin\Debug\net5.0\Projeto 1.exe
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\bin\Debug\net5.0\Projeto 1.deps.json
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\bin\Debug\net5.0\Projeto 1.runtimeconfig.json
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\bin\Debug\net5.0\Projeto 1.runtimeconfig.dev.json
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\bin\Debug\net5.0\Projeto 1.dll
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\bin\Debug\net5.0\ref\Projeto 1.dll
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\bin\Debug\net5.0\Projeto 1.pdb
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\obj\Debug\net5.0\Projeto 1.csproj.AssemblyReference.cache
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\obj\Debug\net5.0\Projeto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\obj\Debug\net5.0\Projeto 1.AssemblyInfoInputs.cache
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\obj\Debug\net5.0\Projeto 1.AssemblyInfo.cs
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\obj\Debug\net5.0\Projeto 1.csproj.CoreCompileInputs.cache
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\obj\Debug\net5.0\Projeto 1.dll
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\obj\Debug\net5.0\ref\Projeto 1.dll
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\obj\Debug\net5.0\Projeto 1.pdb
+C:\Users\Player\Desktop\Kenyo\Programação\Projeto 1\obj\Debug\net5.0\Projeto 1.genruntimeconfig.cache
+D:\Kenyo\Programacao\Projeto 1\bin\Debug\net5.0\Projeto 1.exe
+D:\Kenyo\Programacao\Projeto 1\bin\Debug\net5.0\Projeto 1.deps.json
+D:\Kenyo\Programacao\Projeto 1\bin\Debug\net5.0\Projeto 1.runtimeconfig.json
+D:\Kenyo\Programacao\Projeto 1\bin\Debug\net5.0\Projeto 1.runtimeconfig.dev.json
+D:\Kenyo\Programacao\Projeto 1\bin\Debug\net5.0\Projeto 1.dll
+D:\Kenyo\Programacao\Projeto 1\bin\Debug\net5.0\ref\Projeto 1.dll
+D:\Kenyo\Programacao\Projeto 1\bin\Debug\net5.0\Projeto 1.pdb
+D:\Kenyo\Programacao\Projeto 1\obj\Debug\net5.0\Projeto 1.csproj.AssemblyReference.cache
+D:\Kenyo\Programacao\Projeto 1\obj\Debug\net5.0\Projeto 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kenyo\Programacao\Projeto 1\obj\Debug\net5.0\Projeto 1.AssemblyInfoInputs.cache
+D:\Kenyo\Programacao\Projeto 1\obj\Debug\net5.0\Projeto 1.AssemblyInfo.cs
+D:\Kenyo\Programacao\Projeto 1\obj\Debug\net5.0\Projeto 1.csproj.CoreCompileInputs.cache
+D:\Kenyo\Programacao\Projeto 1\obj\Debug\net5.0\Projeto 1.dll
+D:\Kenyo\Programacao\Projeto 1\obj\Debug\net5.0\ref\Projeto 1.dll
+D:\Kenyo\Programacao\Projeto 1\obj\Debug\net5.0\Projeto 1.pdb
+D:\Kenyo\Programacao\Projeto 1\obj\Debug\net5.0\Projeto 1.genruntimeconfig.cache
+D:\Kenyo\workspace\projeto1\bin\Debug\net5.0\Projeto 1.exe
+D:\Kenyo\workspace\projeto1\bin\Debug\net5.0\Projeto 1.deps.json
+D:\Kenyo\workspace\projeto1\bin\Debug\net5.0\Projeto 1.runtimeconfig.json
+D:\Kenyo\workspace\projeto1\bin\Debug\net5.0\Projeto 1.runtimeconfig.dev.json
+D:\Kenyo\workspace\projeto1\bin\Debug\net5.0\Projeto 1.dll
+D:\Kenyo\workspace\projeto1\bin\Debug\net5.0\ref\Projeto 1.dll
+D:\Kenyo\workspace\projeto1\bin\Debug\net5.0\Projeto 1.pdb
+D:\Kenyo\workspace\projeto1\obj\Debug\net5.0\Projeto 1.csproj.AssemblyReference.cache
+D:\Kenyo\workspace\projeto1\obj\Debug\net5.0\Projeto 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kenyo\workspace\projeto1\obj\Debug\net5.0\Projeto 1.AssemblyInfoInputs.cache
+D:\Kenyo\workspace\projeto1\obj\Debug\net5.0\Projeto 1.AssemblyInfo.cs
+D:\Kenyo\workspace\projeto1\obj\Debug\net5.0\Projeto 1.csproj.CoreCompileInputs.cache
+D:\Kenyo\workspace\projeto1\obj\Debug\net5.0\Projeto 1.dll
+D:\Kenyo\workspace\projeto1\obj\Debug\net5.0\ref\Projeto 1.dll
+D:\Kenyo\workspace\projeto1\obj\Debug\net5.0\Projeto 1.pdb
+D:\Kenyo\workspace\projeto1\obj\Debug\net5.0\Projeto 1.genruntimeconfig.cache
